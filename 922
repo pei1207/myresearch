@@ -1,0 +1,4 @@
+TRAFFIC_ACCIDENT_DATA = [
+    "https://www.npa.gov.tw/NPAGip/wSite/public/Data/f1551682182614.csv",
+    "https://www.npa.gov.tw/NPAGip/wSite/public/Data/f1551682149786.csv"
+]
